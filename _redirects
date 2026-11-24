@@ -1,0 +1,4 @@
+# Alihkan alamat lama Netlify ke domain utama
+https://irfanf.netlify.app/*  https://irfanf.art/:splat  301!
+http://irfanf.netlify.app/*   https://irfanf.art/:splat  301!
+https://www.irfanf.art/*      https://irfanf.art/:splat  301!
