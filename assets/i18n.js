@@ -5,8 +5,8 @@
    ========================================================= */
 window.I18N_EN = {
 /* --- head --- */
-"Irfan Firmansyah — Voice of Nature | Ilustrator Konservasi": "Irfan Firmansyah — Voice of Nature | Conservation Illustrator",
-"Voice of Nature — portofolio Irfan Firmansyah, ilustrator konservasi & komunikasi visual berbasis di Bogor. Poster kampanye, infografis, sampul buku, dan merchandise untuk lembaga konservasi.": "Voice of Nature — portfolio of Irfan Firmansyah, a conservation and visual communication illustrator based in Bogor, Indonesia. Campaign posters, infographics, book covers and merchandise for conservation organisations.",
+"Irfan Firmansyah | Ilustrator Satwa & Konservasi di Bogor": "Irfan Firmansyah | Wildlife & Conservation Illustrator in Bogor",
+   "Irfan Firmansyah, ilustrator satwa dan konservasi di Bogor. Lihat portofolio ilustrasi hewan, poster kampanye, dan infografis Voice of Nature.": "Irfan Firmansyah, a wildlife and conservation illustrator in Bogor, Indonesia. Explore animal illustrations, campaign posters, and Voice of Nature infographics.",
 "Ilustrasi konservasi yang bercerita: poster kampanye, infografis, buku, dan merchandise untuk lembaga konservasi.": "Conservation illustration that tells stories: campaign posters, infographics, books and merchandise for conservation organisations.",
 
 /* --- navigasi --- */
